@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi There 👋
 
-- Focused on delivering smart Data Querying to modern Data Warehousing and making systems simpler
-- Co-creator of the [Hue Query Assistant](https://gethue.com/) and [Data Querying](https://medium.com/data-querying) blog
-- End to end Cloud Services, Web, Python, SQL, UX, Team/Project Lead, Machine Learning, Automation
+- Focused on Smart Data Querying and bridging SQL with ML
+- Team/Project Lead:
+  - Co-creator of [Hue Editor](https://gethue.com/)
+  - [Blog](https://medium.com/data-querying)
+  - End to end Services by leveraging Cloud, Web, Python, SQL, UX, ML, Automation
